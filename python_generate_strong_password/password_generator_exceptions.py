@@ -1,0 +1,2 @@
+class LessThanEightCharactersException(Exception):
+    pass
